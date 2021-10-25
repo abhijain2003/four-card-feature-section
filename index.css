@@ -85,7 +85,7 @@ body  {
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 425px) {
     .card  {
         flex-direction: column;
         margin-left: 15px;
